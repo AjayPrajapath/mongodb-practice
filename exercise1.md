@@ -1,6 +1,16 @@
 # MongoDB Practice
+# MongoDB Shell Practice
 
-MongoDB Exercise in mongo shell
+This repo contains MongoDB practice commands for:
+
+- Creating and inserting documents
+- Querying with filters and text search
+- Updating and deleting documents
+- Working with relationships (users, posts, comments)
+- Aggregation and CSV imports
+
+✅ Practiced using MongoDB shell and Atlas  
+
 
 ## create database
 Connect to a running mongo instance, use a database named `mongo_practice`.
